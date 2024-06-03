@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=piyushrathoree&label=Profile%20views&color=0e75b6&style=flat" alt="piyushrathoree" /> </p>
 
-- 🌱 I’m currently learning **ADVANCE JAVASCRIPT**
+- 🌱 I’m currently learning **ADVANCE JAVASCRIPT & REACT.JS**
 
 - 🤝 I’m looking for help with **REACT JS**
 
