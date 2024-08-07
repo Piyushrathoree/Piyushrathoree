@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **REACT JS** && **BACKEND DEV - NODE AND EXPRESS**
 
-- 💬 Ask me about **HTML5,CSS3,BASIC JAVA,JAVASCRIPT**
+- 💬 Ask me about **HTML5,CSS3,JAVASCRIPT**
 
 - 📫 How to reach me **01piyush008@gmail.com**
 
