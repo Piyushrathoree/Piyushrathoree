@@ -18,13 +18,13 @@
   />
 </p>
 
--🌱 I’m currently learning **FULL STACK DEVELOPMENT**
--🤝 I’m looking for help with **REACT JS** && **BACKEND DEV - NODE AND EXPRESS**
--💬 Ask me about **JAVASCRIPT**
--Interested in Web3/Blockchain and OpenSource**
--📫 How to reach me **01piyush008@gmail.com** - 📄
-Know about my experiences [https://github.com/Piyushrathoree](https://github.com/Piyushrathoree) - ⚡ Fun
-fact **I don't like python language**
+- 🌱 I’m currently learning **FULL STACK DEVELOPMENT** - 🤝 I’m looking for help
+with **REACT JS** && **BACKEND DEV - NODE AND EXPRESS** - 💬 Ask me about
+**JAVASCRIPT** - Interested in **WEB3 / BLOCKCHAIN** and **OPENSOURCE**
+📫 How to reach me **01piyush008@gmail.com** - 📄
+Know about my experiences
+[https://github.com/Piyushrathoree](https://github.com/Piyushrathoree) - ⚡ Fun
+fact **I don't like python**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
