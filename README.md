@@ -2,7 +2,7 @@
  
 <h1 align="center">Hi 👋, I'm Piyush Rathore</h1>
 <h3 align="center">
-  A passionate frontend developer based in Bhopal,Madhya Pradesh, INDIA
+  A passionate backend developer based in Bhopal,Madhya Pradesh, INDIA
 </h3>
 <img
   align="right"
