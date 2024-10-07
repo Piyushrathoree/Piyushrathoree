@@ -31,7 +31,7 @@ fact **I don't like python**
   <a href="https://twitter.com/piyus_rathore" target="blank"
     ><img
       align="center"
-      src="https://raw.githubusercontent.com/Piyushrathoree/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
       alt="piyus_rathore"
       height="30"
       width="40"
@@ -41,7 +41,7 @@ fact **I don't like python**
     target="blank"
     ><img
       align="center"
-      src="https://raw.githubusercontent.com/Piyushrathoree/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="https://www.linkedin.com/in/piyushrathore--/"
       height="30"
       width="40"
@@ -51,7 +51,7 @@ fact **I don't like python**
     target="blank"
     ><img
       align="center"
-      src="https://raw.githubusercontent.com/Piyushrathoree/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg"
       alt="https://stackoverflow.com/users/22387716/piyush"
       height="30"
       width="40"
@@ -61,7 +61,7 @@ fact **I don't like python**
     target="blank"
     ><img
       align="center"
-      src="https://raw.githubusercontent.com/Piyushrathoree/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
       alt="https://www.hackerrank.com/profile/01piyush008"
       height="30"
       width="40"
@@ -71,7 +71,7 @@ fact **I don't like python**
     target="blank"
     ><img
       align="center"
-      src="https://raw.githubusercontent.com/Piyushrathoree/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg"
       alt="https://www.geeksforgeeks.org/user/01piyuvz9j/"
       height="30"
       width="40"
