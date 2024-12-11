@@ -16,7 +16,7 @@
 
 <p align="left">
   <img
-    src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjlmYjA5ZDl3bmN0YWs2dzJmenN6aTU3ZXRnaDFyaGZrMHl6djR4ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YYW0hHizzIOrlhimPG/giphy.webp"
+    src=""
     alt="piyushrathoree "
   />
 </p>
