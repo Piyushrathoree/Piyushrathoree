@@ -11,7 +11,7 @@
   align="right"
   alt="Coding"
   width="400"
-  src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
+  src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGxkcGF1dWZmZGV3bWdzejVlbG4weTk4MmYwbzIxc2M1ZTFkODdoMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.webp"
 />
 
 <p align="left">
