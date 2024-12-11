@@ -11,7 +11,7 @@
   align="right"
   alt="Coding"
   width="400"
-  src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGxkcGF1dWZmZGV3bWdzejVlbG4weTk4MmYwbzIxc2M1ZTFkODdoMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.webp"
+  src="https://img.freepik.com/free-vector/hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_138676-2387.jpg?t=st=1733948559~exp=1733952159~hmac=5aa98d9e7c97f86fa57e1e0853c5236e255f17d59a541837221f0407482c2e1c&w=826"
 />
 
 <p align="left">
