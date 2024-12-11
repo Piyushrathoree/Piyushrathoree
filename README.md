@@ -1,5 +1,6 @@
-<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/2IudUHdI075HL02Pkk" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/pudgypenguins-data-code-coding-2IudUHdI075HL02Pkk">via GIPHY</a></p>
- 
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGxkcGF1dWZmZGV3bWdzejVlbG4weTk4MmYwbzIxc2M1ZTFkODdoMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.webp">
+
+
 <h1 align="center">Hi 👋, I'm Piyush Rathore</h1>
 <h3 align="center">
   A passionate backend developer based in Bhopal,Madhya Pradesh, INDIA
