@@ -4,8 +4,8 @@
 
 
 
-<h1 align="center">Hi 👋, I'm Piyush Rathore</h1>
-<h3 align="center">
+<h1 align="left">Hi 👋, I'm Piyush Rathore</h1>
+<h3 align="left">
   A passionate backend developer based in Bhopal,Madhya Pradesh, INDIA
 </h3>
 <img
