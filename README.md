@@ -16,7 +16,7 @@
 
 <p align="left">
   <img
-    src="https://komarev.com/ghpvc/?username=piyushrathoree&label=Profile%20views&color=0e75b6&style=flat"
+    src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjlmYjA5ZDl3bmN0YWs2dzJmenN6aTU3ZXRnaDFyaGZrMHl6djR4ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YYW0hHizzIOrlhimPG/giphy.webp"
     alt="piyushrathoree "
   />
 </p>
