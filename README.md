@@ -12,7 +12,7 @@
   align="right"
   alt="Coding"
   width="400"
-  src="https://img.freepik.com/free-vector/hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_138676-2387.jpg?t=st=1733948559~exp=1733952159~hmac=5aa98d9e7c97f86fa57e1e0853c5236e255f17d59a541837221f0407482c2e1c&w=826"
+  src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"
 />
 
 <p align="left">
