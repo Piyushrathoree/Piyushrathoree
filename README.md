@@ -135,10 +135,4 @@ fact **I don't like python**
   />
 </p>
 
-<p>
-  <img
-    align="center"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=piyushrathoree&"
-    alt="piyushrathoree"
-  />
-</p>
+
