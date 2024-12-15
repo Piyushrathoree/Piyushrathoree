@@ -134,5 +134,9 @@ fact **I don't like python**
     alt="piyushrathoree"
   />
 </p>
-
+<p>
+  <img align="center"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Piyushrathoree&theme=dark&hide_border=false" 
+    alt="piyushrathoree"
+</p>
 
