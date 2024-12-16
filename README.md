@@ -139,4 +139,8 @@ fact **I don't like python**
     src="https://github-readme-streak-stats.herokuapp.com/?user=Piyushrathoree&theme=dark&hide_border=false" 
     alt="piyushrathoree"
 </p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=piyushrathoree&show_icons=true&locale=en&layout=compact" alt="piyushrathoree" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=piyushrathoree&show_icons=true&locale=en" alt="piyushrathoree" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=piyushrathoree&" alt="piyushrathoree" /></p>
