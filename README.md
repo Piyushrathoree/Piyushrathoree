@@ -23,7 +23,7 @@
 </p>
 
 - 🌱 I’m currently learning **FULL STACK DEVELOPMENT** - 🤝 I’m looking for help
-with **REACT JS** && **BACKEND DEV - NODE AND EXPRESS** - 💬 Ask me about
+with **REACT JS**  - 💬 Ask me about
 **JAVASCRIPT** - Interested in **WEB3 / BLOCKCHAIN** and **OPENSOURCE**
 📫 How to reach me **01piyush008@gmail.com** - 📄
 Know about my experiences
