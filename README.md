@@ -1,4 +1,4 @@
-<div><img src="https://img.freepik.com/free-photo/person-playing-3d-video-games-device_23-2151005751.jpg?t=st=1733949025~exp=1733952625~hmac=5064666060a7fd3d38c30e5c25aea9e3d872bd1b78a14a20ce01a82814f21d1a&w=1380" href="github.com/Piyushrathoree > 
+<div><img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" href="github.com/Piyushrathoree > 
 </div>
 
 
