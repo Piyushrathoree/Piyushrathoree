@@ -109,6 +109,11 @@ fact **I don't like python**
     alt="java"
     width="40"
     height="40"
+  /><img
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cpp/cpp-original.svg"
+    alt="cpp"
+    width="40"
+    height="40"
   />
   <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
