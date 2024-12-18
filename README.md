@@ -96,7 +96,7 @@ fact **I don't like python**
     width="40"
     height="40"
   />
- <img src="https://img.icons8.com/?size=50&id=kg46nzoJrmTR&format=png" alt="express" height="40">
+ <img src="https://img.icons8.com/?size=100&id=WNoJgbzDr3i2&format=png&color=000000">
  <img src="https://voyager.postman.com/logo/postman-logo-icon-orange.svg" alt="express" height="40">
   <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
@@ -109,7 +109,8 @@ fact **I don't like python**
     alt="java"
     width="40"
     height="40"
-  /><img
+  />
+  <img
     src="https://img.icons8.com/?size=100&id=40669&format=png&color=000000"
     alt="cpp"
     width="40"
