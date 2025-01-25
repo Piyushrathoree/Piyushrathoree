@@ -19,12 +19,13 @@
   />
 </p>
 
-- 🌱 I’m currently learning **FULL STACK DEVELOPMENT** - 🤝 I’m looking for help
-with **REACT JS**  - 💬 Ask me about
-**JAVASCRIPT** - Interested in **WEB3 / BLOCKCHAIN** and **OPENSOURCE**
+<span>- 🌱 I’m currently learning **FULL STACK DEVELOPMENT** </span></br><span> - 🤝 I’m looking for help
+with **REACT JS** </span> <span>- 💬 Ask me about
+**JAVASCRIPT**</span></br><span> - Interested in **WEB3 / BLOCKCHAIN** and **OPENSOURCE**</span>
 📫 How to reach me **01piyush008@gmail.com** - 📄
 Know about my experiences
-[https://github.com/Piyushrathoree](https://github.com/Piyushrathoree) - ⚡ Fun
+[https://github.com/Piyushrathoree](https://github.com/Piyushrathoree) 
+</br>- ⚡ Fun
 fact **I don't like python**
 
 <h3 align="left">Connect with me:</h3>
