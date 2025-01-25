@@ -104,12 +104,7 @@ fact **I don't like python**
     width="40"
     height="40"
   />
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
-    alt="java"
-    width="40"
-    height="40"
-  />
+
   <img
     src="https://img.icons8.com/?size=100&id=40669&format=png&color=000000"
     alt="cpp"
