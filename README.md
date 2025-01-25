@@ -105,7 +105,6 @@ fact **I don't like python**
     width="40"
     height="40"
   />
-
   <img
     src="https://img.icons8.com/?size=100&id=40669&format=png&color=000000"
     alt="cpp"
@@ -119,7 +118,6 @@ fact **I don't like python**
     height="40"
   />
   <img src="https://img.icons8.com/?size=48&id=74402&format=png" height="40" />
-
   <img
     src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
     alt="tailwind"
@@ -128,7 +126,6 @@ fact **I don't like python**
   />
   <img src="https://imgs.search.brave.com/UH41hw6s-Q0xDq2hWu-oE_lFgBYKN7wrcokBbVhK2E0/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjdjMjVlZmYz/MDU2NTQ5NTE1NWNl/M2Q0NDZjMTkzODY3/OGY5ZmM3YzE4NGRk/ZjNkYmUyNzRkM2Ex/NGQ0ZmZkOS9yZWFj/dC5kZXYv" alt="react" height="40">
 </p>
-
 <p>
   <img
     align="center"
