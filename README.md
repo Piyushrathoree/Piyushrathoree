@@ -4,6 +4,7 @@
 <h3 align="left">
   A passionate developer based in Bhopal,Madhya Pradesh, INDIA
 </h3>
+<br />
 <img
   align="right"
   alt="Coding"
