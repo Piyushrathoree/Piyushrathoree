@@ -105,9 +105,16 @@ fact **I don't like python**
     width="40"
     height="40"
   />
+  
   <img
     src="https://img.icons8.com/?size=100&id=40669&format=png&color=000000"
     alt="cpp"
+    width="40"
+    height="40"
+  />
+    <img
+    src="https://img.icons8.com/?size=100&id=hGdCwhSHUe6L&format=png&color=000000"
+    alt="python"
     width="40"
     height="40"
   />
