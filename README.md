@@ -126,7 +126,7 @@ fact **I don't like python**
   />
   <img src="https://img.icons8.com/?size=48&id=74402&format=png" height="40" />
   <img
-    src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
+    src="https://img.icons8.com/?size=48&id=CIAZz2CYc6Kc&format=png"
     alt="tailwind"
     width="40"
     height="40"
