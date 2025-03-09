@@ -134,11 +134,6 @@ fact **I don't like python**
   <img src="https://imgs.search.brave.com/UH41hw6s-Q0xDq2hWu-oE_lFgBYKN7wrcokBbVhK2E0/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjdjMjVlZmYz/MDU2NTQ5NTE1NWNl/M2Q0NDZjMTkzODY3/OGY5ZmM3YzE4NGRk/ZjNkYmUyNzRkM2Ex/NGQ0ZmZkOS9yZWFj/dC5kZXYv" alt="react" height="40">
 </p>
 <p>
-  <img
-    align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=piyushrathoree&show_icons=true&locale=en&layout=compact"
-    alt="piyushrathoree"
-  />
 <img src="https://github-readme-stats.vercel.app/api?username=Piyushrathoree&theme=aura&hide_border=false&include_all_commits=false&count_private=false">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Piyushrathoree&theme=aura&hide_border=false">
 
