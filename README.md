@@ -139,7 +139,6 @@ fact **I don't like python**
     src="https://github-readme-stats.vercel.app/api/top-langs?username=piyushrathoree&show_icons=true&locale=en&layout=compact"
     alt="piyushrathoree"
   />
-![](https://github-readme-streak-stats.herokuapp.com/?user=Piyushrathoree &theme=aura&hide_border=false)<br/>
-</p>
-
+<img src="https://github-readme-stats.vercel.app/api?username=Piyushrathoree&theme=aura&hide_border=false&include_all_commits=false&count_private=false">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Piyushrathoree&theme=aura&hide_border=false">
 
