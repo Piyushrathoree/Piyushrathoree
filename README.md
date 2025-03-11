@@ -135,5 +135,5 @@ fact **I don't like python**
 </p>
 <p>
 <img src="https://github-readme-stats.vercel.app/api?username=Piyushrathoree&theme=aura&hide_border=false&include_all_commits=false&count_private=false">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Piyushrathoree&theme=aura&hide_border=false&include_all_commits=false&count_private=false">
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Piyushrathoreee&theme=dark&hide_border=true&hide_total_contributions=true&hide_current_streak=true&hide_longest_streak=true" alt="GitHub Streak" /></a>
 
