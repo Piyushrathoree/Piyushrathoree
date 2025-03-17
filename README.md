@@ -135,4 +135,4 @@ fact **I don't like python**
 </p>
 <p>
 <img src="https://github-readme-stats.vercel.app/api?username=Piyushrathoree&theme=aura&hide_border=false&include_all_commits=false&count_private=false">
-<img src="https://streak-stats.demolab.com/?user=Piyushrathoree&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
+
