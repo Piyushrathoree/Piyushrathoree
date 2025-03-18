@@ -124,6 +124,7 @@ fact **I don't like python**
     width="40"
     height="40"
   />
+  <img src="https://imgs.search.brave.com/UH41hw6s-Q0xDq2hWu-oE_lFgBYKN7wrcokBbVhK2E0/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjdjMjVlZmYz/MDU2NTQ5NTE1NWNl/M2Q0NDZjMTkzODY3/OGY5ZmM3YzE4NGRk/ZjNkYmUyNzRkM2Ex/NGQ0ZmZkOS9yZWFj/dC5kZXYv" alt="react" height="40">
   <img src="https://img.icons8.com/?size=48&id=74402&format=png" height="40" />
   <img
     src="https://img.icons8.com/?size=48&id=CIAZz2CYc6Kc&format=png"
@@ -131,7 +132,12 @@ fact **I don't like python**
     width="40"
     height="40"
   />
-  <img src="https://imgs.search.brave.com/UH41hw6s-Q0xDq2hWu-oE_lFgBYKN7wrcokBbVhK2E0/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjdjMjVlZmYz/MDU2NTQ5NTE1NWNl/M2Q0NDZjMTkzODY3/OGY5ZmM3YzE4NGRk/ZjNkYmUyNzRkM2Ex/NGQ0ZmZkOS9yZWFj/dC5kZXYv" alt="react" height="40">
+   <img
+    src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png"
+    alt="typescript"
+    width="40"
+    height="40"
+  />
 </p>
 <p>
 <img src="https://github-readme-stats.vercel.app/api?username=Piyushrathoree&theme=aura&hide_border=false&include_all_commits=false&count_private=false">
