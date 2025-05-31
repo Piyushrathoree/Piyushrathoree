@@ -26,7 +26,6 @@ with **REACT JS** </span> <span>- 💬 Ask me about
 Know about my experiences
 [https://github.com/Piyushrathoree](https://github.com/Piyushrathoree) 
 </br>-⚡ Fun
-fact **I don't like python**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
