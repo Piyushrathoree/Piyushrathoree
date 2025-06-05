@@ -24,7 +24,7 @@ with **REACT JS** </span> <span>- 💬 Ask me about
 **JAVASCRIPT**</span></br><span> - Interested in **WEB3 / BLOCKCHAIN** and **OPENSOURCE**</span></br>
 -📫 How to reach me **01piyush008@gmail.com** </br>-📄
 Know about my experiences
-[https://github.com/Piyushrathoree](https://github.com/Piyushrathoree) 
+[https://piyushrathore.vercel.app](https://piyushrathore.vercel.app) 
 </br>-⚡ Fun
 
 <h3 align="left">Connect with me:</h3>
