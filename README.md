@@ -139,5 +139,5 @@ Know about my experiences
   />
 </p>
 <p>
-<img src="https://github-readme-stats.vercel.app/api?username=Piyushrathoree&theme=aura&hide_border=false&include_all_commits=false&count_private=false">
+<img src="https://github-readme-stats.vercel.app/api?username=Piyushrathoree&theme=dark&hide_border=false&include_all_commits=false&count_private=false">
 <img src="https://nirzak-streak-stats.vercel.app/?user=Piyushrathoree&theme=dark&hide_border=false" alt="streak">
