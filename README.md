@@ -19,9 +19,7 @@
   />
 </p>
 
-<span>- 🌱 I’m currently learning **FULL STACK DEVELOPMENT** </span></br><span> - 🤝 I’m looking for help
-with **REACT JS** </span> <span>- 💬 Ask me about
-**JAVASCRIPT**</span></br><span> - Interested in **WEB3 / BLOCKCHAIN** and **OPENSOURCE**</span></br>
+<span>- 🌱 I’m currently learning **FULL STACK DEVELOPMENT** </span></br><span> - Interested in **WEB3 / BLOCKCHAIN** and **OPENSOURCE**</span></br>
 -📫 How to reach me **01piyush008@gmail.com** </br>-📄
 Know about my experiences
 [https://piyushrathore.vercel.app](https://piyushrathore.vercel.app) 
@@ -58,12 +56,12 @@ Know about my experiences
       width="40"
   /></a>
   <a
-    href="https://www.hackerrank.com/profile/01piyush008"
+    href="https://leetcode.com/u/PIYUS008/"
     target="blank"
     ><img
       align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
-      alt="https://www.hackerrank.com/profile/01piyush008"
+      src="https://img.icons8.com/?size=100&id=wDGo581Ea5Nf&format=png&color=fafafa"
+      alt="leetcode"
       height="30"
       width="40"
   /></a>
