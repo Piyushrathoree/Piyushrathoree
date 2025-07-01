@@ -102,6 +102,12 @@ Know about my experiences
     width="40"
     height="40"
   />
+   <img
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+    alt="javascript"
+    width="40"
+    height="40"
+  />
   
   <img
     src="https://img.icons8.com/?size=100&id=40669&format=png&color=000000"
@@ -112,12 +118,6 @@ Know about my experiences
     <img
     src="https://img.icons8.com/?size=100&id=hGdCwhSHUe6L&format=png&color=000000"
     alt="python"
-    width="40"
-    height="40"
-  />
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-    alt="javascript"
     width="40"
     height="40"
   />
@@ -135,6 +135,19 @@ Know about my experiences
     width="40"
     height="40"
   />
+  <img
+    src="https://img.icons8.com/?size=100&id=yUdJlcKanVbh&format=png&color=111111"
+    alt="nextjs"
+    width="44"
+    height="44"
+  />
+  <img
+    src="https://img.icons8.com/?size=100&id=YKKmRFS8Utmm&format=png&color=000000"
+    alt="prisma"
+    width="44"
+    height="44"
+  />
+  
 </p>
 <p>
 <img src="https://github-readme-stats.vercel.app/api?username=Piyushrathoree&theme=dark&hide_border=false&include_all_commits=false&count_private=false">
