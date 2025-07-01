@@ -23,7 +23,7 @@
 -📫 How to reach me **01piyush008@gmail.com** </br>-📄
 Know about my experiences
 [https://piyushrathore.vercel.app](https://piyushrathore.vercel.app) 
-</br>-⚡ Fun
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
