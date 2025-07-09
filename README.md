@@ -19,7 +19,7 @@
   />
 </p>
 
-<span>- 🌱 I’m currently learning **FULL STACK DEVELOPMENT** </span></br><span> - Interested in **WEB3 / BLOCKCHAIN** and **OPENSOURCE**</span></br>
+<span>- 🌱 I’m currently learning **FULL STACK DEVELOPMENT** </span></br><span> - Interested in **WEB3 / BLOCKCHAIN** , **Gen AI / Agentic AI **and **OPENSOURCE**</span></br>
 -📫 How to reach me **01piyush008@gmail.com** </br>-📄
 Know about my experiences
 [https://piyushrathore.vercel.app](https://piyushrathore.vercel.app) 
