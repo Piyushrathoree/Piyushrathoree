@@ -2,7 +2,7 @@
 
 <h1 align="left">Hi 👋, I'm Piyush Rathore</h1>
 <h3 align="left">
-  A passionate developer based in Bhopal,Madhya Pradesh, INDIA
+  A full stack developer based in Bhopal,Madhya Pradesh, INDIA
 </h3>
 <br />
 <img
