@@ -9,8 +9,8 @@
 Full stack web developer mainly focused in backend development.
 
 ### Featured
-* **[Zenith](https://github.com/piyushrathoree/zenith)** — Brief description of the impact or tech.
-* **[Vexio](https://github.com/Piyushrathoree/vexio)** — Brief description of the impact or tech.
+* **[Zenith](https://github.com/piyushrathoree/zenith)** — A productivity tool.
+* **[Vexio](https://github.com/Piyushrathoree/vexio)** — An AI powered Collabrative whiteboard.
 
 
 
