@@ -18,7 +18,7 @@ Full stack web developer mainly focused in backend development.
   <p>
     ➤ Check out my <a href="https://Piyushh.me" target="_blank">Portfolio</a><br>
     ➤ Active open-source contributor (<a href="http://localhost:3000/#proof-of-work">15+ PRs merged /7 PRs opened</a>)<br>
-    ➤ Support my work and make me smile: 
+    ➤ Support my work or Sponser me: 
     <a href="https://buymeacoffee.com/xPiyushrathore">here</a><br>
     ➤ Connect with me: 
     <a href="mailto:01piyush008@gmail.com">01piyush008@gmail.com</a>
