@@ -17,7 +17,7 @@ Full stack web developer mainly focused in backend development.
 <div style="max-width: 800px; margin: 0 auto; text-align: center;">
   <p>
     ➤ Check out my <a href="https://Piyushh.me" target="_blank">Portfolio</a><br>
-    ➤ Active open-source contributor (<a href="http://localhost:3000/#proof-of-work">15+ PRs merged /7 PRs opened</a>)<br>
+    ➤ Active open-source contributor (<a href="https://Piyushh.me/#proof-of-work">15+ PRs merged /7 PRs opened</a>)<br>
     ➤ Support my work or Sponser me: 
     <a href="https://buymeacoffee.com/xPiyushrathore">here</a><br>
     ➤ Connect with me: 
