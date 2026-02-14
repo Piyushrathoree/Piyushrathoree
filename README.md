@@ -27,7 +27,7 @@ Full stack  developer mainly focused in backend development.
 </div>
 
 <p style="font-size: 64px; color: #444; margin: 40px 0; text-align: center;">
- This is the very beginning...
+ This is the very beginning....
 </p>
 
 
