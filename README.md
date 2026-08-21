@@ -9,7 +9,7 @@
 Full stack  developer mainly focused in backend development.
 
 ### Featured
-* **[Zenith](https://github.com/piyushrathoree/zenith)** — A productivity tool.
+* **[Orin](https://github.com/piyushrathoree/Orin)** — A lovable style vibe coding IDE in your browser.
 * **[Vexio](https://github.com/Piyushrathoree/vexio)** — An AI powered Collabrative whiteboard.
 
 
