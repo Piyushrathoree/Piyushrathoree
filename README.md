@@ -1,4 +1,4 @@
-# [Piyush Rathore](piyushh.me)
+# [Piyush Rathore](https://piyush.social)
 <img
   align="right"
   alt="Coding"
