@@ -39,4 +39,4 @@ Love's to code with my chair reclined.
 
 
 ---
-[X](https://x.com/__Piyushrathore) / [Linkedin](https://linkedin.com/piyushrathore--) / [Email](mailto:Piyushrathore.works@gmail.com) / [Portfolio](Piyush.social)
+[X](https://x.com/__Piyushrathore) / [Linkedin](https://linkedin.com/piyushrathore--) / [Email](mailto:Piyushrathore.works@gmail.com) / [Portfolio](https://Piyush.social)
