@@ -6,7 +6,7 @@
   src="https://media1.tenor.com/m/Q2pBPCaR_tcAAAAC/piza-ninjas-pizzaninjas.gif"
 />
 ### **Engineer** & Open Source Contributor. <br />
-Love's to code with my chair reclined.
+Loves to code with my chair reclined.
 
 ### Featured
 * **[Orin](https://github.com/piyushrathoree/Orin)** — A lovable style vibe coding IDE in your browser.
