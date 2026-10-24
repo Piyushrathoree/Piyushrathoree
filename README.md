@@ -9,8 +9,9 @@
 Loves to code with my chair reclined.
 
 ### Featured
-* **[Orin](https://github.com/piyushrathoree/Orin)** — A lovable style vibe coding IDE in your browser.
+* **[Zenith](https://github.com/piyushrathoree/Zenith)** — A lovable style vibe coding IDE in your browser.
 * **[Vexio](https://github.com/Piyushrathoree/vexio)** — An AI powered Collabrative whiteboard.
+* **[Verdict](https://verdict.reviews)** - Github App that reviews your PR in super fast speed.
 
 
 
@@ -18,7 +19,7 @@ Loves to code with my chair reclined.
   <p>
     ➤ Ex Software Engineer <a href="https://studio1hq.com" target="_blank" >Studio1HQ</a> <br/>
     ➤ Check out my <a href="https://Piyush.social" target="_blank">Portfolio</a><br>
-    ➤ Active open-source contributor (<a href="https://Piyushh.me/#proof-of-work">40+ PRs merged </a>)<br>
+    ➤ Active open-source contributor (<a href="https://Piyushh.me/#proof-of-work">45+ PRs merged </a>)<br>
     ➤ Support my work or Sponser me: 
     <a href="https://buymeacoffee.com/xPiyushrathore">here</a><br>
     ➤ Connect with me: 
