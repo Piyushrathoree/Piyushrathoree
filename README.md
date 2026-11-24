@@ -9,7 +9,7 @@
 Loves to code with my chair reclined.
 
 ### Featured
-* **[Zenith](https://github.com/piyushrathoree/Zenith)** — A lovable style vibe coding IDE in your browser.
+* **[Quick Notes](https://github.com/piyushrathoree/quicknotes)** — A place for all your thoughts and ideas. 
 * **[Vexio](https://github.com/Piyushrathoree/vexio)** — An AI powered Collabrative whiteboard.
 * **[Verdict](https://verdict.reviews)** - Github App that reviews your PR in super fast speed.
 
